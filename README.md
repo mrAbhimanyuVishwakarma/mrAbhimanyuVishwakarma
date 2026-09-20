@@ -24,21 +24,6 @@ src="https://img.shields.io/twitter/follow/mrAbhimanyu07?logo=twitter&style=for-
 /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="333">
-
-<a href="http://www.github.com/mrAbhimanyuVishwakarma"><img src="https://github-readme-stats.vercel.app/api?username=mrAbhimanyuVishwakarma&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="mrAbhimanyuVishwakarma's GitHub stats" /></a>
-
-<a href="http://www.github.com/mrAbhimanyuVishwakarma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrAbhimanyuVishwakarma&stroke=ffffff&background=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/mrAbhimanyuVishwakarma" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrAbhimanyuVishwakarma&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/mrAbhimanyuVishwakarma/https://github.com/mrAbhimanyuVishwakarma/AxeDrobe-E-Commerce-Order-Management-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrAbhimanyuVishwakarma&repo=https://github.com/mrAbhimanyuVishwakarma/AxeDrobe-E-Commerce-Order-Management-System&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/mrAbhimanyuVishwakarma/https://github.com/mrAbhimanyuVishwakarma/AxePower" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrAbhimanyuVishwakarma&repo=https://github.com/mrAbhimanyuVishwakarma/AxePower&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/mrAbhimanyuVishwakarma/https://github.com/mrAbhimanyuVishwakarma/SyncNotes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrAbhimanyuVishwakarma&repo=https://github.com/mrAbhimanyuVishwakarma/SyncNotes&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/mrAbhimanyuVishwakarma/https://github.com/mrAbhimanyuVishwakarma/mini-Music-Websites" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrAbhimanyuVishwakarma&repo=https://github.com/mrAbhimanyuVishwakarma/mini-Music-Websites&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
