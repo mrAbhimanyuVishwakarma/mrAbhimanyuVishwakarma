@@ -1,4 +1,4 @@
-Hi! I am Abhimanyu Vishwakarma
+Hi, I am Abhimanyu Vishwakarma
 ==============================================================================================================================================
 
 Software Development Engineer
@@ -26,11 +26,22 @@ Software Development Engineer specializing in full stack development, backend de
 <h3>Socials</h3>
 <p align="left"> <a href="https://www.github.com/mrAbhimanyuVishwakarma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/mrAbhimanyu07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/mrabhimanyu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@https://www.youtube.com/@mrAbhimanyuVishwakarma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/mrabhimanyu07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
-<h3>Support Me</h3>
-<ul style="list-style-type: none; margin: 0;">
+<h3>☕ Support My Work</h3>If you like my projects and find them useful, consider supporting my work. Your support motivates me to keep building, improving, and sharing more open-source projects. ❤️
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mrabhimanyu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<img width="210" height="210" alt="1000180703" src="https://github.com/user-attachments/assets/a245db8b-7804-4e7a-a950-416d39a5a12c" />
-
-</ul>
+<p align="center">
+  <img width="210" height="210" alt="UPI QR Code" src="https://github.com/user-attachments/assets/a245db8b-7804-4e7a-a950-416d39a5a12c" />
+  <br />
+  <b>💸 Support via UPI</b>
+  <br />
+  Scan the QR code above to send a contribution directly.
+</p><p align="center">
+  <a href="https://github.com/sponsors/mrAbhimanyuVishwakarma" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Sponsor%20me%20on-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor me on GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/mrabhimanyu" target="_blank" rel="noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" alt="Buy Me a Coffee" />
+  </a>
+</p><p align="center">
+  Every contribution, big or small, is greatly appreciated. Thank you for supporting my journey! 🙌
+</p>
