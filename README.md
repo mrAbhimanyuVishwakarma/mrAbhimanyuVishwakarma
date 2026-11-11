@@ -29,7 +29,7 @@ Software Development Engineer specializing in full stack development, backend de
 <h3>☕ Support My Work</h3>If you like my projects and find them useful, consider supporting my work. Your support motivates me to keep building, improving, and sharing more open-source projects. ❤️
 
 <p align="center">
-  <img width="210" height="210" alt="UPI QR Code" src="https://github.com/user-attachments/assets/a245db8b-7804-4e7a-a950-416d39a5a12c" />
+  <img width="123" height="123" alt="UPI QR Code" src="https://github.com/user-attachments/assets/a245db8b-7804-4e7a-a950-416d39a5a12c" />
   <br />
   <b>💸 Support via UPI</b>
   <br />
